@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Amirhossein 👋
 
-<!--
-**Ahzrn-dev/ahzrn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Python & SQL  
+📍 Moving to Australia  
+🎓 Background in Civil Engineering & Mathematics Teaching  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Python** — Pandas, NumPy, Matplotlib
+- **SQL** — Data querying and analysis
+- **Data Visualization** — Streamlit, Seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔐 [Password Generator](https://github.com/ahzrn-dev/python-password-generator)
+- 🎮 [Rock Paper Scissors](https://github.com/ahzrn-dev/python-rock-paper-scissors)
+- 📊 [Streamlit Dashboard](https://github.com/ahzrn-dev/python-streamlit-dashboard)
+
+## 📫 Contact
+📧 ahzrn.dev@gmail.com
